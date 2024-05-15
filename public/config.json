@@ -1,9 +1,9 @@
 {
-  "dataApiHostName": "<service name>.data.<region>.azure-apicenter.ms/workspaces/default",
+  "dataApiHostName": "apic-befl-test-01.data.westeurope.azure-apicenter.ms",
   "title": "API portal",
   "authentication": {
-      "clientId": "<client ID>",
-      "tenantId": "<tenant ID>",
+      "clientId": "929a98eb-c8eb-4938-a698-cb27b0518a90",
+      "tenantId": "663377b2-f666-46e7-bdef-9dcbbd65541d",
       "scopes": ["https://azure-apicenter.net/user_impersonation"],
       "authority": "https://login.microsoftonline.com/"
   }
